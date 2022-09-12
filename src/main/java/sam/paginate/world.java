@@ -194,6 +194,7 @@ public class world extends javax.swing.JFrame {
 
     private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
        System.exit(0);
+//       this.dispose();
     }//GEN-LAST:event_jMenuItem1ActionPerformed
 
     private void loadWorldtbl(){
